@@ -14,7 +14,7 @@ class script(object):
 📂 **ɴᴏᴛᴇ:** ᴍᴀᴋᴇ ꜱᴜʀᴇ ʏᴏᴜ ʜᴀᴠᴇ ᴇɴᴏᴜɢʜ ꜱᴛᴏʀᴀɢᴇ ꜱᴘᴀᴄᴇ ʙᴇꜰᴏʀᴇ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ!
 ᴇɴᴊᴏʏ ʀᴇꜱᴘᴏɴꜱɪʙʟᴇ."""
 
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @jirayamaster_24
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
@@ -23,9 +23,9 @@ class script(object):
 
 sɪᴢᴇ ⚙️: {file_size}
 
-Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/vj_botz)</b>""" 
+Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/ubdateubdate)</b>""" 
 
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
